@@ -1,5 +1,3 @@
-2-STRLEN_RECURSION.C CODE
-
 #include "main.h"
 /**
  * _strlen_recursion - Returns the length of a string.
